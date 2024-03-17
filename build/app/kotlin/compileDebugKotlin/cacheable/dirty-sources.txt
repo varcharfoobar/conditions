@@ -1,0 +1,1 @@
+/home/berk/Projects/conditions/android/app/src/main/kotlin/com/example/conditions/MainActivity.kt

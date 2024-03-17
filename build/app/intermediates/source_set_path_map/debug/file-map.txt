@@ -1,0 +1,17 @@
+com.example.conditions.app-jetified-window-1.0.0-beta04-0 /home/berk/.gradle/caches/transforms-3/032f4dff274e516110d9363a9793a3e3/transformed/jetified-window-1.0.0-beta04/res
+com.example.conditions.app-jetified-window-java-1.0.0-beta04-1 /home/berk/.gradle/caches/transforms-3/142c24f2530665bb6deb4123ab140714/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.conditions.app-lifecycle-runtime-2.3.1-2 /home/berk/.gradle/caches/transforms-3/25a884faa36a531a9e5f369d596bbf88/transformed/lifecycle-runtime-2.3.1/res
+com.example.conditions.app-jetified-play-services-base-18.1.0-3 /home/berk/.gradle/caches/transforms-3/4b9d22533576529904e76f8ef61c175c/transformed/jetified-play-services-base-18.1.0/res
+com.example.conditions.app-core-1.9.0-4 /home/berk/.gradle/caches/transforms-3/75f115a0f1013408c24b813aa08b99f3/transformed/core-1.9.0/res
+com.example.conditions.app-jetified-play-services-basement-18.1.0-5 /home/berk/.gradle/caches/transforms-3/95e76454cff392b3dff66e1259c7e57f/transformed/jetified-play-services-basement-18.1.0/res
+com.example.conditions.app-jetified-annotation-experimental-1.3.0-6 /home/berk/.gradle/caches/transforms-3/ae329bc8a0eb87982c4fe41e3ec5da7f/transformed/jetified-annotation-experimental-1.3.0/res
+com.example.conditions.app-debug-7 /home/berk/Projects/conditions/android/app/src/debug/res
+com.example.conditions.app-main-8 /home/berk/Projects/conditions/android/app/src/main/res
+com.example.conditions.app-pngs-9 /home/berk/Projects/conditions/build/app/generated/res/pngs/debug
+com.example.conditions.app-resValues-10 /home/berk/Projects/conditions/build/app/generated/res/resValues/debug
+com.example.conditions.app-rs-11 /home/berk/Projects/conditions/build/app/generated/res/rs/debug
+com.example.conditions.app-mergeDebugResources-12 /home/berk/Projects/conditions/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.conditions.app-mergeDebugResources-13 /home/berk/Projects/conditions/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.conditions.app-merged_res-14 /home/berk/Projects/conditions/build/app/intermediates/merged_res/debug
+com.example.conditions.app-packaged_res-15 /home/berk/Projects/conditions/build/geocoding_android/intermediates/packaged_res/debug
+com.example.conditions.app-packaged_res-16 /home/berk/Projects/conditions/build/geolocator_android/intermediates/packaged_res/debug
